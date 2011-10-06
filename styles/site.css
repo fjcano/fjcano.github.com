@@ -1,0 +1,27 @@
+body {
+	background-image: url('imgs/stripe.png');
+}
+
+#center {
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	background: url('imgs/stripe2.png');
+}
+
+#top {
+	height: 300px;
+}
+
+.name {
+
+}
+
+.subname {
+
+}
+
+#below {
+
+}
+
