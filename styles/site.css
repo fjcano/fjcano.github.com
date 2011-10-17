@@ -65,3 +65,8 @@ a:visited {
 
 }
 
+.clear-link {
+	float: right;
+	font-size: 35px;
+	text-transform: uppercase;
+}
